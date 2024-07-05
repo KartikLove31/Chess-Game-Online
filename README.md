@@ -44,8 +44,13 @@ Follow these steps to set up and run the chess game on your local machine:
 - The first two users to join the game will be assigned as players.
 - Subsequent users will join as spectators and can watch the game in real-time.
 
+![Screenshot 2024-07-06 015210](https://github.com/KartikLove31/Chess-Game-Online/assets/123856032/7cf093fc-6cba-448a-86dc-1c53b7f65139)
 
+![Screenshot 2024-07-06 015331](https://github.com/KartikLove31/Chess-Game-Online/assets/123856032/ecf64a65-c9ba-4ee8-a369-bedf1e6de014)
 
+![Screenshot 2024-07-06 015352](https://github.com/KartikLove31/Chess-Game-Online/assets/123856032/a074cf18-ec97-4763-9fe5-b8fd63ab90b8)
+
+![image](https://github.com/KartikLove31/Chess-Game-Online/assets/123856032/c59b818b-ff34-4427-8c03-f9214af0c22c)
 
 
 ## Technologies Used
